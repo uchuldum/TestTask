@@ -1,0 +1,12 @@
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\FIS.exe.config
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\FIS.exe
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\FIS.pdb
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\EntityFramework.dll
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\EntityFramework.xml
+C:\Users\Uran\Desktop\FIS\FIS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Uran\Desktop\FIS\FIS\obj\Debug\FIS.csprojAssemblyReference.cache
+C:\Users\Uran\Desktop\FIS\FIS\obj\Debug\FIS.csproj.CoreCompileInputs.cache
+C:\Users\Uran\Desktop\FIS\FIS\obj\Debug\FIS.csproj.CopyComplete
+C:\Users\Uran\Desktop\FIS\FIS\obj\Debug\FIS.exe
+C:\Users\Uran\Desktop\FIS\FIS\obj\Debug\FIS.pdb
